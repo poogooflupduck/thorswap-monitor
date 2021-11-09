@@ -8,7 +8,7 @@ Visualizations: https://docs.google.com/spreadsheets/d/1iXEtRwUov738w99vwW-iybK_
  
 Data Feed: https://docs.google.com/spreadsheets/d/1iXEtRwUov738w99vwW-iybK_MxsCMsQAPQf5dPdZm_U/
 
-Query used ([query.parsql](/query.parsql))
+Query used ([query.parsql](/query.parsiql))
 
 ```
 stream QuickMonitor
